@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="fas"
+   data-icon="thermometer-half"
+   class="svg-inline--fa fa-thermometer-half fa-w-8"
+   role="img"
+   viewBox="0 0 256 512"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="thermometer-half-solid.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.625"
+     inkscape:cx="127.69231"
+     inkscape:cy="177.53846"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     fill="currentColor"
+     d="m 37.432696,69.983448 c 0,4.975107 -4.759843,9.008283 -10.631324,9.008283 -5.87148,0 -10.631322,-4.033176 -10.631322,-9.008283 0,-3.333762 2.138889,-6.242308 5.315661,-7.800178 V 47.46276 c 0,-2.487549 2.379922,-4.504131 5.315661,-4.504131 2.935741,0 5.315662,2.016582 5.315662,4.504131 v 14.72051 c 3.176773,1.55787 5.315662,4.466416 5.315662,7.800178 z m 5.315663,-11.91527 c 3.307673,3.175841 5.315659,7.346526 5.315659,11.91527 0,9.950767 -9.518854,18.016556 -21.262646,18.016556 -0.04967,0 -0.101163,-1.45e-4 -0.150998,-4.36e-4 -11.678176,-0.06872 -21.1709499,-8.214545 -21.1113149,-18.11 0.027242,-4.532005 2.0304163,-8.667374 5.3153289,-11.82139 V 29.446214 c 0,-7.462656 7.139764,-13.512414 15.946984,-13.512414 8.807221,0 15.946987,6.049758 15.946987,13.512414 z m -2.657832,11.91527 c 0,-4.833359 -3.217637,-7.345965 -5.315661,-9.360438 V 29.446214 c 0,-3.725347 -3.576943,-6.756207 -7.973494,-6.756207 -4.39655,0 -7.973492,3.03086 -7.973492,6.756207 V 60.62301 c -2.114969,2.0308 -5.286591,4.518214 -5.315495,9.301042 -0.03721,6.175741 5.907527,11.276676 13.193306,11.319464 l 0.09568,2.13e-4 c 7.32764,0 13.289155,-5.051392 13.289155,-11.260339 z"
+     id="path2"
+     style="stroke-width:0.15291;fill:#008080" />
+</svg>
